@@ -11,5 +11,3 @@ Breadboard
 ## Demo
 
 [Little Invader On Youtube](https://www.youtube.com/watch?v=sZmquxHWD_E)
-
-
